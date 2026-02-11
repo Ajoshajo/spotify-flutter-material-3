@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/github/stars/ajoshajo/spotify_redesign?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/ajoshajo/spotifiy-flutter-material-3?style=for-the-badge" alt="GitHub stars" />
 </p>
 
 A high-fidelity, motion-heavy Spotify UI concept built with Flutter. This project reimagines the digital music experience through a lens of **visual excellence**, **dynamic generative design**, and **expressive micro-animations**.
