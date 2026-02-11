@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/stars/ajoshajo/spotifiy-flutter-material-3?style=for-the-badge" alt="GitHub stars" />
 </p>
 
-A high-fidelity, motion-heavy Spotify UI concept built with Flutter. This project reimagines the digital music experience through a lens of **visual excellence**, **dynamic generative design**, and **expressive micro-animations**.
+A high-fidelity, motion-heavy Spotify UI concept built with Flutter and **Material 3**. This project reimagines the digital music experience through a lens of **visual excellence**, **dynamic generative design**, and **expressive micro-animations**.
 
 ---
 
 ## ✨ Key Features
 
-- **🎨 Dynamic Theming**: Harnesses `palette_generator` to extract vibrant color schemes from album art in real-time, creating a context-aware UI that breathes with the music.
+- **🎨 Dynamic Theming & Material 3**: Harnesses `palette_generator` and Material 3's advanced coloring system to extract vibrant color schemes from album art in real-time.
 - **🌊 Generative Audio Visuals**: Features custom-built BPM-synced wave animations and interactive background shaders that react to the rhythm.
 - **🔷 Expressive Material Shapes**: Leverages the power of `material_new_shapes` to move beyond standard rectangles, using complex polygons for a modern, architectural aesthetic.
 - **🚀 Ultra-Smooth Motion**: Implementation of advanced `Hero` transitions and custom `PageTransitions` for a "liquid" app experience.
@@ -78,6 +78,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<p align="center">
+
   Built with ❤️ and Flutter by [ajoshajo](https://github.com/ajoshajo)
-</p>
+
