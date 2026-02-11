@@ -19,7 +19,13 @@ A high-fidelity, motion-heavy Spotify UI concept built with Flutter and **Materi
 - **🚀 Ultra-Smooth Motion**: Implementation of advanced `Hero` transitions and custom `PageTransitions` for a "liquid" app experience.
 - **📡 State-of-the-art State Management**: Built with `Riverpod` for high-performance, predictable audio playback control and state synchronization.
 
-## 🛠️ Tech Stack
+## � Screenshots
+
+| Home Screen | Full Player | Search Screen |
+| :---: | :---: | :---: |
+| ![Home](https://raw.githubusercontent.com/Ajoshajo/spotify-flutter-material-3/refs/heads/main/screenshots/home.png) | ![Player](https://raw.githubusercontent.com/Ajoshajo/spotify-flutter-material-3/refs/heads/main/screenshots/player.png) | ![Search](https://raw.githubusercontent.com/Ajoshajo/spotify-flutter-material-3/refs/heads/main/screenshots/search.png) |
+
+## �🛠️ Tech Stack
 
 | Layer | Technology |
 | :--- | :--- |
